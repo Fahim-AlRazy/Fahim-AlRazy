@@ -22,10 +22,6 @@
 
 ### 🤝 Establish Connection 
 <p align="center">
-  <a href="#" target="_blank">
-    <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" alt="Portfolio" height="40">
-  </a>
-  &nbsp;
   <a href="https://www.linkedin.com/in/fahimalrazy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -55,7 +51,11 @@
   </a>
 </p>
 <br>
-
+## Web-Profile !!! 
+<a href="https://fahim-alrazy.github.io/personal_portfolio/" target="_blank">
+    <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" alt="Portfolio" height="200">
+  </a>
+<br>
 ## 🏅 Installed Badges !!!
 <p align="center">
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/202507.gif?raw=true" alt="Badge 1" height="120"/>
@@ -66,7 +66,7 @@
 </p>
 <br>
 
-## 💻 Competitive Programming Profiles
+## 💻 Battlefields
 <p align="center">
   <a href="https://leetcode.com/u/FAHIM_AL_RAZY/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
@@ -90,7 +90,7 @@
 </p>
 <br>
 
-## 🛠️ Languages and Tools
+## 🛠️ Weapons I Use
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
