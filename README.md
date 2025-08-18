@@ -6,7 +6,7 @@
 <p align="left">
 
 
-### 👨‍💻 <u><u>Identity Detected !!! </u></u>
+### 👨‍💻 Identity Detected !!! 
 
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="boxes" align="right" width="380"/>
   
@@ -20,7 +20,7 @@
 
 </p>
 
-### 🤝 <u><u>Establish Connection </u></u> 
+### 🤝 Establish Connection .........
 <p align="center">
   <a href="https://www.linkedin.com/in/fahimalrazy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimalrazy" height="60" width="60" />
@@ -64,7 +64,7 @@
 </p>
 <br>
 
-## 💻 Battlefields ⚔️/🛡️
+## 💻 Battlefields ............
 <p align="center">
   <a href="https://leetcode.com/u/FAHIM_AL_RAZY/" target="blank">
     <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/LeetCode_logo_black.png?raw=true" alt="FAHIM_AL_RAZY" height="80" width="80" />
@@ -84,7 +84,7 @@
 </p>
 <br>
 
-## 🗡️ Weapons I Use ............
+## 🗡️ Weapons I Use ⚔️/🛡️
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/C" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/>
@@ -112,27 +112,6 @@
   </a>&nbsp;&nbsp;
    <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="80" height="80"/>
-  </a>&nbsp;&nbsp;
-<a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/openai.svg" alt="ChatGPT" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/gemini.svg" alt="Gemini" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.perplexity.ai/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/perplexity.svg" alt="Perplexity" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://you.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/you.svg" alt="You.com" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://claude.ai/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/claude.svg" alt="Claude" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/copilot.svg" alt="GitHub Copilot" width="40" height="40"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/cursor.svg" alt="Cursor" width="40" height="40"/>
   </a>&nbsp;&nbsp;
 </p>
 <br><br>
