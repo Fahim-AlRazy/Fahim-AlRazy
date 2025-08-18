@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 <p align="left">
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="BRAC University Logo" align="right" width="120"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="BRAC University Logo" align="right" width="300"/>
   
   I am a punctual and active **B.Sc. in CSE student at BRAC University** who is passionate about programming and problem-solving. My goal is to become a highly skillful software developer.
   
