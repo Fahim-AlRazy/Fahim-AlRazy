@@ -6,7 +6,7 @@
 <p align="left">
 
 
-### 👨‍💻 Identity Detected !!!
+### 👨‍💻 <u><u>Identity Detected !!! </u></u>
 
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="boxes" align="right" width="380"/>
   
@@ -20,28 +20,28 @@
 
 </p>
 
-### 🤝 Establish Connection 
+### 🤝 <u><u>Establish Connection </u></u> 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahimalrazy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimalrazy" height="80" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimalrazy" height="60" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@Fahim_AL_Razy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Fahim_AL_Razy" height="80" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Fahim_AL_Razy" height="60" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/shamilur.raji" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamilur.raji" height="80" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamilur.raji" height="60" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
  <a href="https://x.com/FahimALRazy" target="blank">
-    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/x-twitter-logo-on-black-circle-5694247.png?raw=true" height="80" width="80" />
+    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/x-twitter-logo-on-black-circle-5694247.png?raw=true" height="60" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/1232362427698384919" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1232362427698384919" height="80" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1232362427698384919" height="60" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801521705263" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+8801521705263" height="80" width="80" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+8801521705263" height="60" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="http://t.me/Fahim_Al_Razy" target="blank">
-    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/Telegram-Logo-PNG-Image.png?raw=true" alt="Fahim_Al_Razy" height="80" width="80" />
+    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/Telegram-Logo-PNG-Image.png?raw=true" alt="Fahim_Al_Razy" height="100" width="100" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
@@ -64,7 +64,7 @@
 </p>
 <br>
 
-## 💻 Battlefields
+## 💻 Battlefields ⚔️/🛡️
 <p align="center">
   <a href="https://leetcode.com/u/FAHIM_AL_RAZY/" target="blank">
     <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/LeetCode_logo_black.png?raw=true" alt="FAHIM_AL_RAZY" height="80" width="80" />
@@ -84,7 +84,7 @@
 </p>
 <br>
 
-## 🛠️ Weapons I Use
+## 🗡️ Weapons I Use ............
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/C" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="80" height="80"/>
@@ -113,10 +113,31 @@
    <a href="https://www.google.com/docs/about/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="80" height="80"/>
   </a>&nbsp;&nbsp;
+<a href="https://chat.openai.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/openai.svg" alt="ChatGPT" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/gemini.svg" alt="Gemini" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.perplexity.ai/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/perplexity.svg" alt="Perplexity" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://you.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/you.svg" alt="You.com" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/claude.svg" alt="Claude" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/features/copilot" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/copilot.svg" alt="GitHub Copilot" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://cursor.sh/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/AI/cursor.svg" alt="Cursor" width="40" height="40"/>
+  </a>&nbsp;&nbsp;
 </p>
 <br><br>
 
-## ALLAH Hafez !!!
+## 🤗 End of Compilation !!!
 <p align="center">
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/39f6a005763b37e2237b320df0e68e31.gif?raw=true" width="1000"/>
 </p>
