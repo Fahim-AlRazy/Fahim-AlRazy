@@ -22,7 +22,7 @@
 
 ### 🤝 Establish Connection .........
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahimalrazy" target="blank">
+  <a href="https://www.linkedin.com/in/fahimalrazy" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimalrazy" height="60" width="60" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@Fahim_AL_Razy" target="blank">
