@@ -1,8 +1,10 @@
+<h1 align="center">Hey there 🐸, It's RAZY here ......<br></h1>
 <p align="center">
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/f94df1f75eb518ade0f5c608c21e36f6.gif?raw=true" width="800"/>
+  <h2>Welcome to my domain of Github !!! <br\> Myself Fahim Al Razy ; Nice to meet you </h2>
 </p>
 <p align="left">
-<h1 align="center">Hey there 🐸, It's RAZY here ......<br><h3>Nice to meet you ; Myself Fahim Al Razy ; Welcome to my domain of Github </h3></h1>
+
 
 ## 👨‍💻 Identity Detected !!!
 
@@ -103,4 +105,9 @@
   <img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoft%20office&logoColor=white" alt="MS Office"/>
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
 </p>
-<br>
+<br><br><br>
+
+## ALLAH Hafez !!!
+<p align="center">
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/39f6a005763b37e2237b320df0e68e31.gif?raw=true" width="1000"/>
+</p>
