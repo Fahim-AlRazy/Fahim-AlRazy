@@ -69,19 +69,19 @@
 <p align="center">
   <a href="https://leetcode.com/u/FAHIM_AL_RAZY/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/CompetitiveProgramming/leetcode.svg" alt="FAHIM_AL_RAZY" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.hackerrank.com/profile/fahimalrazy2005" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/CompetitiveProgramming/hackerrank.svg" alt="fahimalrazy2005" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://codeforces.com/profile/fahim_al_razy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/CompetitiveProgramming/codeforces.svg" alt="fahim_al_razy" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://www.codechef.com/users/watch_shine_08" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/CompetitiveProgramming/codechef.svg" alt="watch_shine_08" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>
   <a href="https://stackoverflow.com/users/28312580/fahim-al-razy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahim-al-razy" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 <br>
 
