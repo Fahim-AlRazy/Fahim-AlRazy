@@ -24,26 +24,25 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/fahimalrazy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimalrazy" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.youtube.com/@Fahim_AL_Razy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@Fahim_AL_Razy" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.facebook.com/shamilur.raji" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamilur.raji" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
  <a href="https://x.com/FahimALRazy" target="blank">
-    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/x-twitter-logo-on-black-circle-5694247.png?raw=true" height="80" width="80" />
-  </a>
-&nbsp;&nbsp;
+    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/x-twitter-logo-on-black-circle-5694247.png?raw=true" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://discordapp.com/users/1232362427698384919" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1232362427698384919" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/8801521705263" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+8801521705263" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="http://t.me/Fahim_Al_Razy" target="blank">
     <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/Telegram-Logo-PNG-Image.png?raw=true" alt="Fahim_Al_Razy" height="80" width="80" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
@@ -69,19 +68,19 @@
 <p align="center">
   <a href="https://leetcode.com/u/FAHIM_AL_RAZY/" target="blank">
     <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/LeetCode_logo_black.png?raw=true" alt="FAHIM_AL_RAZY" height="40" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/fahimalrazy2005" target="blank">
     <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/hackerrank.png?raw=true" alt="fahimalrazy2005" height="40" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/fahim_al_razy" target="blank">
     <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/code%20forces.png?raw=true" alt="fahim_al_razy" height="40" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/watch_shine_08" target="blank">
     <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/CodeChef_Logo.svg.png?raw=true" alt="watch_shine_08" height="40" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/28312580/fahim-al-razy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahim-al-razy" height="40" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
