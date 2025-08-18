@@ -1,17 +1,12 @@
 <p align="center">
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/f94df1f75eb518ade0f5c608c21e36f6.gif?raw=true" width="auto"/>
 </p>
-
+<p align="left">
 <h1 align="center">Hi 👋, I'm Fahim Al Razy</h1>
 <h3 align="center">A CSE Student, Content Creator, and Developer from Bangladesh 🇧🇩</h3>
 
-<p align="center">
-  <img src="" width="600"/>
-</p>
-<br>
+## 👨‍💻 Identity Detected !!!
 
-## 👨‍💻 About Me
-<p align="left">
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="BRAC University Logo" align="right" width="300"/>
   
   I am a punctual and active **B.Sc. in CSE student at BRAC University** who is passionate about programming and problem-solving. My goal is to become a highly skillful software developer.
@@ -61,7 +56,7 @@
 </p>
 <br>
 
-## 🏅 My Badges
+## 🏅 Installed Badges !!!
 <p align="center">
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/202507.gif?raw=true" alt="Badge 1" height="120"/>
   &nbsp;&nbsp;&nbsp;
@@ -71,7 +66,7 @@
 </p>
 <br>
 
-## 💻 My Competitive Programming Profiles
+## 💻 Competitive Programming Profiles
 <p align="center">
   <a href="https://leetcode.com/u/FAHIM_AL_RAZY/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
@@ -110,10 +105,3 @@
   <img src="https://img.shields.io/badge/Google%20Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Workspace"/>
 </p>
 <br>
-
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fahim-AlRazy&show_icons=true&theme=radical" alt="Fahim's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-AlRazy&layout=compact&theme=radical" alt="Fahim's Top Languages"/>
-</p>
