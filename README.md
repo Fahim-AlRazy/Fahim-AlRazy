@@ -1,19 +1,20 @@
 <p align="center">
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/f94df1f75eb518ade0f5c608c21e36f6.gif?raw=true" width="auto"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/f94df1f75eb518ade0f5c608c21e36f6.gif?raw=true" width="600"/>
 </p>
 <p align="left">
-<h1 align="center">Hi 👋, I'm Fahim Al Razy</h1>
-<h3 align="center">A CSE Student, Content Creator, and Developer from Bangladesh 🇧🇩</h3>
+<h1 align="center">Hey there 🐸, It's RAZY here ......</h1>
+<h1 align="center">Nice to meet you ; Myself Fahim Al Razy ; Welcome to my domain of Github </h1>
+<h3 align="left">A CSE Student, Content Creator , Part Time Teacher </h3>
 
 ## 👨‍💻 Identity Detected !!!
 
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="BRAC University Logo" align="right" width="300"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="BRAC University Logo" align="right" width="400"/>
   
-  I am a punctual and active **B.Sc. in CSE student at BRAC University** who is passionate about programming and problem-solving. My goal is to become a highly skillful software developer.
+  I am a punctual and active **CSE Undergrad at BRAC University** ; passionate about programming and problem-solving. My goal is to become a highly skillful software developer.
   
-  - 🔭 I’m currently working on enhancing my skills in **Data Structures, Algorithms, and Full Stack Software Development**.
+  - 🔭 Currently working on enhancing my skills in **Data Structures, Algorithms, and Full Stack Software Development**.
   
-  - 🌱 I’m currently learning **Advanced Java, C++, and JavaScript frameworks**.
+  - 🌱 Learning **Advanced Java, C++, JavaScript frameworks** and ∞ 
   
   - 📺 I am also an educational **Content Creator** and work as a **Course Instructor** at One Academy.
 
