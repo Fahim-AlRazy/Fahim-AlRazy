@@ -2,7 +2,7 @@
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/f94df1f75eb518ade0f5c608c21e36f6.gif?raw=true" width="800"/>
 </p>
 <p align="left">
-<h1 align="center">Hey there 🐸, It's RAZY here ......<br><h3>Nice to meet you ; Myself Fahim Al Razy ; Welcome to my domain of Github </h3>h3></h1>
+<h1 align="center">Hey there 🐸, It's RAZY here ......<br><h3>Nice to meet you ; Myself Fahim Al Razy ; Welcome to my domain of Github </h3></h1>
 
 ## 👨‍💻 Identity Detected !!!
 
@@ -19,7 +19,7 @@
 </p>
 <br>
 
-## 🤝 Connect with Me
+### 🤝 Connect with Me
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" alt="Portfolio" height="40">
