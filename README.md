@@ -51,11 +51,7 @@
   </a>
 </p>
 <br>
-## Web-Profile !!! 
-<a href="https://fahim-alrazy.github.io/personal_portfolio/" target="_blank">
-    <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" alt="Portfolio" height="200">
-  </a>
-<br>
+
 ## 🏅 Installed Badges !!!
 <p align="center">
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/202507.gif?raw=true" alt="Badge 1" height="120"/>
@@ -63,6 +59,13 @@
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/2550.gif?raw=true" alt="Badge 2" height="120"/>
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/coin.gif?raw=true" alt="Badge 3" height="120"/>
+</p>
+<br>
+## Web-Profile !!! 
+<p align="center">
+<a href="https://fahim-alrazy.github.io/personal_portfolio/" target="_blank">
+    <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" alt="Portfolio" height="200">
+  </a>
 </p>
 <br>
 
