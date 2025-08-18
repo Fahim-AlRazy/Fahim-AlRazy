@@ -31,9 +31,10 @@
   <a href="https://www.facebook.com/shamilur.raji" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamilur.raji" height="40" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://x.com/FahimALRazy" target="blank">
+ <a href="https://x.com/FahimALRazy" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="FahimALRazy" height="40" width="40" />
-  </a>&nbsp;&nbsp;
+  </a>
+&nbsp;&nbsp;
   <a href="https://discordapp.com/users/1232362427698384919" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1232362427698384919" height="40" width="40" />
   </a>&nbsp;&nbsp;
