@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" width="300"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/f94df1f75eb518ade0f5c608c21e36f6.gif?raw=true" width="auto"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Fahim Al Razy</h1>
 <h3 align="center">A CSE Student, Content Creator, and Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="Futuristic Programming GIF" width="600"/>
+  <img src="" width="600"/>
 </p>
 <br>
 
 ## 👨‍💻 About Me
 <p align="left">
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/bracu_logo_12-0-2022.png?raw=true" alt="BRAC University Logo" align="right" width="120"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="BRAC University Logo" align="right" width="120"/>
   
   I am a punctual and active **B.Sc. in CSE student at BRAC University** who is passionate about programming and problem-solving. My goal is to become a highly skillful software developer.
   
