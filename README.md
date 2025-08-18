@@ -1,28 +1,26 @@
 <p align="center">
-  <img src="YOUR_LINK_TO_RAZYTECH_LOGO.PNG" alt="RazyTech Logo" width="300"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" width="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Fahim Al Razy</h1>
 <h3 align="center">A CSE Student, Content Creator, and Developer from Bangladesh 🇧🇩</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazM1bzJnbnN1cWE5dzVqZW9zMXppbnFkNTJ1cXU2bjE4N2t0cTdyZSZlcD12ZiZpbnRlcm5hbF_naWZfYnlfaWQmY3Q9Zw/LmL2iGhr9IeA146szA/giphy.gif" alt="Futuristic Programming GIF" width="600"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="Futuristic Programming GIF" width="600"/>
 </p>
 <br>
 
 ## 👨‍💻 About Me
 <p align="left">
-  <img src="YOUR_LINK_TO_BRACU_LOGO.PNG" alt="BRAC University Logo" align="right" width="120"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/bracu_logo_12-0-2022.png?raw=true" alt="BRAC University Logo" align="right" width="120"/>
   
   I am a punctual and active **B.Sc. in CSE student at BRAC University** who is passionate about programming and problem-solving. My goal is to become a highly skillful software developer.
   
-  - 🔭 I’m currently working on enhancing my skills in **Data Structures, Algorithms, and Full Stack Development**.
+  - 🔭 I’m currently working on enhancing my skills in **Data Structures, Algorithms, and Full Stack Software Development**.
   
   - 🌱 I’m currently learning **Advanced Java, C++, and JavaScript frameworks**.
   
   - 📺 I am also an educational **Content Creator** and work as a **Course Instructor** at One Academy.
-  
-  - 💬 Ask me about **Java, C++, JavaScript**, and event management.
 
 </p>
 <br>
@@ -30,7 +28,7 @@
 ## 🤝 Connect with Me
 <p align="center">
   <a href="#" target="_blank">
-    <img src="YOUR_LINK_TO_RAZYTECH_LOGO.PNG" alt="Portfolio" height="40">
+    <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" alt="Portfolio" height="40">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/fahimalrazy" target="_blank">
@@ -65,11 +63,11 @@
 
 ## 🏅 My Badges
 <p align="center">
-  <img src="YOUR_LINK_TO_COIN.GIF" alt="Badge 1" height="120"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/202507.gif?raw=true" alt="Badge 1" height="120"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="YOUR_LINK_TO_2550.GIF" alt="Badge 2" height="120"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/2550.gif?raw=true" alt="Badge 2" height="120"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="YOUR_LINK_TO_202507.GIF" alt="Badge 3" height="120"/>
+  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/coin.gif?raw=true" alt="Badge 3" height="120"/>
 </p>
 <br>
 
