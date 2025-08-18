@@ -3,7 +3,7 @@
 </p>
 <p align="left">
 <h1 align="center">Hey there 🐸, It's RAZY here ......</h1>
-<h1 align="center">Nice to meet you ; Myself Fahim Al Razy ; Welcome to my domain of Github </h1>
+<p align="center" font-size="60px">Nice to meet you ; Myself Fahim Al Razy ; Welcome to my domain of Github </p>
 
 ## 👨‍💻 Identity Detected !!!
 
