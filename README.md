@@ -1,12 +1,12 @@
 <h1 align="center">Hey there 🐸, It's RAZY here ......<br></h1>
 <p align="center">
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/f94df1f75eb518ade0f5c608c21e36f6.gif?raw=true" width="800"/>
-  <h2>Welcome to my domain of Github !!! <br\> Myself Fahim Al Razy ; Nice to meet you </h2>
+  <h2>Welcome to my domain of Github !!! <br>Assalamu Owalaikum ! Myself Fahim Al Razy ; Nice to meet you </h2>
 </p>
 <p align="left">
 
 
-## 👨‍💻 Identity Detected !!!
+### 👨‍💻 Identity Detected !!!
 
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/72dd95e157eda77042ea6b2fa5afff50.gif?raw=true" alt="BRAC University Logo" align="right" width="380"/>
   
@@ -19,9 +19,8 @@
   - 📺 I am also an educational **Content Creator** and work as a **Course Instructor** at One Academy.
 
 </p>
-<br>
 
-### 🤝 Connect with Me
+### 🤝 Establish Connection 
 <p align="center">
   <a href="#" target="_blank">
     <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" alt="Portfolio" height="40">
