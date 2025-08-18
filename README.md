@@ -32,7 +32,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shamilur.raji" height="40" width="40" />
   </a>&nbsp;&nbsp;
  <a href="https://x.com/FahimALRazy" target="blank">
-    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/X-Logo.png?raw=true" alt="FahimALRazy" height="40" width="40" />
+    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/x-twitter-logo-on-black-circle-5694247.png?raw=true" height="80" width="80" />
   </a>
 &nbsp;&nbsp;
   <a href="https://discordapp.com/users/1232362427698384919" target="blank">
@@ -42,7 +42,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="+8801521705263" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="http://t.me/Fahim_Al_Razy" target="blank">
-    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/Telegram-Logo-PNG-Image.png?raw=true" alt="Fahim_Al_Razy" height="40" width="40" />
+    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/Telegram-Logo-PNG-Image.png?raw=true" alt="Fahim_Al_Razy" height="80" width="80" />
   </a>&nbsp;&nbsp;
 </p>
 <br>
