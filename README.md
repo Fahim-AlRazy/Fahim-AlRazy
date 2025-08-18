@@ -67,19 +67,19 @@
 ## 💻 Battlefields
 <p align="center">
   <a href="https://leetcode.com/u/FAHIM_AL_RAZY/" target="blank">
-    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/LeetCode_logo_black.png?raw=true" alt="FAHIM_AL_RAZY" height="40" width="40" />
+    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/LeetCode_logo_black.png?raw=true" alt="FAHIM_AL_RAZY" height="80" width="80" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/fahimalrazy2005" target="blank">
-    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/hackerrank.png?raw=true" alt="fahimalrazy2005" height="40" width="40" />
+    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/hackerrank.png?raw=true" alt="fahimalrazy2005" height="80" width="80" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/fahim_al_razy" target="blank">
-    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/code%20forces.png?raw=true" alt="fahim_al_razy" height="40" width="40" />
+    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/code%20forces.png?raw=true" alt="fahim_al_razy" height="80" width="80" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/watch_shine_08" target="blank">
-    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/CodeChef_Logo.svg.png?raw=true" alt="watch_shine_08" height="40" width="40" />
+    <img align="center" src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/CodeChef_Logo.svg.png?raw=true" alt="watch_shine_08" height="100" width="100" />
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://stackoverflow.com/users/28312580/fahim-al-razy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahim-al-razy" height="40" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="fahim-al-razy" height="80" width="80" />
   </a>&nbsp;&nbsp;&nbsp;
 </p>
 <br>
