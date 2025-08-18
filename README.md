@@ -4,7 +4,6 @@
 <p align="left">
 <h1 align="center">Hey there 🐸, It's RAZY here ......</h1>
 <h1 align="center">Nice to meet you ; Myself Fahim Al Razy ; Welcome to my domain of Github </h1>
-<h3 align="left">A CSE Student, Content Creator , Part Time Teacher </h3>
 
 ## 👨‍💻 Identity Detected !!!
 
