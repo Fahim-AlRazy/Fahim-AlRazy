@@ -50,23 +50,6 @@
 </p>
 <br>
 
-## 🏅 Installed Badges !!!
-<p align="center">
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/202507.gif?raw=true" alt="Badge 1" height="160"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/2550.gif?raw=true" alt="Badge 2" height="160"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/coin.gif?raw=true" alt="Badge 3" height="160"/>
-</p>
-<br>
-
-## 🌐 Web_Profile !!!
-<p align="center">
-<a href="https://fahim-alrazy.github.io/personal_portfolio/" target="_blank">
-    <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/razytech.png?raw=true" alt="Portfolio" height="300">
-  </a>
-</p>
-<br>
 
 ## 💻 Battlefields ............
 <p align="center">
