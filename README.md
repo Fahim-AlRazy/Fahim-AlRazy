@@ -3,7 +3,7 @@
   <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/f94df1f75eb518ade0f5c608c21e36f6.gif?raw=true" width="800"/>
   <p align="center">
    👨🏻‍💻 CSE Student @ BRACU | 👻 Java and Spring Boot Lover | 🕵🏻 Tech Explorer <br><br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ffee&center=true&vCenter=true&width=500&lines=Code.+Create.+Repeat.;Stay+Curious+💭;Debug.+Deploy.+Deliver.;Building+One+Project+at+a+Time📑.;Eat+Sleep+Code+Repeat+%E2%98%95.;Dream+💡+Build+🛠️+Conquer+❤️;&cursorColor=ff4ecd" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=00ffee&center=true&vCenter=true&width=500&lines=Never.+Stop.+Learning.;Stay+Curious+💭;Debug.+Deploy.+Deliver.;Building+One+Project+at+a+Time📑.;Eat+Sleep+Code+Repeat+%E2%98%95.;Dream+💡+Build+🛠️+Conquer+❤️;&cursorColor=ff4ecd" alt="Typing SVG" />
 
 </p>
 </p>
