@@ -101,9 +101,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="google" width="80" height="80"/>
   </a>&nbsp;&nbsp;
 </p>
-<br><br>
-
-## 🤗 End of Compilation !!!
-<p align="center">
-  <img src="https://github.com/Fahim-AlRazy/Fahim-AlRazy/blob/main/39f6a005763b37e2237b320df0e68e31.gif?raw=true" width="1000"/>
-</p>
